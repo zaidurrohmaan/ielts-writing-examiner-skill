@@ -1,6 +1,6 @@
 ---
 name: ielts-writing-examiner
-description: "Evaluates IELTS Academic Writing Task 1 and Task 2 responses. Provides grammar corrections using strikethrough, estimates band scores for all 4 criteria using official descriptors, and gives Band 6, 7, and 8 example responses."
+description: "Evaluates IELTS Academic Writing Task 1 and Task 2 responses. Provides grammar corrections using strikethrough, estimates band scores for all 4 criteria using official descriptors, and gives Band 7.0+ example response."
 ---
 # IELTS Academic Writing Examiner
 
